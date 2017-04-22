@@ -1,0 +1,128 @@
+td{
+    border:2px solid black ;
+    
+    width:180px;
+    padding:2px;
+   background-color: ghostwhite;
+}
+th{
+    border:2px solid black ;
+    
+    width:inherit;
+    padding:2px;
+   
+}
+body,h1{
+     margin:15px;
+   
+    padding: 10px;
+
+    background-color:cadetblue;
+}
+
+#a
+{
+    width=50%;
+
+}
+.table1{
+    
+
+}
+input[type=number], textarea {
+  -webkit-transition: all 0.30s ease-in-out;
+  -moz-transition: all 0.30s ease-in-out;
+  -ms-transition: all 0.30s ease-in-out;
+  -o-transition: all 0.30s ease-in-out;
+  outline: none;
+   width:100px  ;
+    padding-right: ;
+    margin-right: 00px;
+    float:;
+    clear:both;
+    height:18px;
+}
+input[type=text], textarea {
+  -webkit-transition: all 0.30s ease-in-out;
+  -moz-transition: all 0.30s ease-in-out;
+  -ms-transition: all 0.30s ease-in-out;
+  -o-transition: all 0.30s ease-in-out;
+  outline: none;
+   width:200px  ;
+    padding-right: ;
+    margin-right: 00px;
+    float:right;
+    clear:both;
+    height:18px;
+}
+ 
+input[type=text]:focus, textarea:focus {
+  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+  padding: 3px 0px 3px 3px;
+  margin: 5px 1px 3px 0px;
+  border: 1px solid rgba(81, 203, 238, 1);
+}
+input[type=number]:focus, textarea:focus {
+  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+  padding: ;
+  margin: ;
+  border: 1px solid rgba(81, 203, 238, 1);
+}
+input{
+    
+}
+.form{
+padding: 25px;
+padding-right: 10%;
+padding-left: 10%;    
+}
+.content{
+padding: ;
+
+margin-right:;
+}
+h4{
+    color: red;
+    font-style: italic;
+}
+.container{
+    background-color: darkgrey;
+    border-radius: 10px;
+    border:2px solid black ;
+}
+button, .abc{
+    background-color:#34495e;
+    padding: 5px;
+    
+    width: 200px;
+    display: inline-block;
+  border-radius: 4px;
+  
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  
+  font-size: 16px;
+  
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+button, .ab{
+    background-color:#34495e;
+    padding: 5px;
+    
+    width: 300px;
+    display: inline-block;
+  border-radius: 4px;
+  
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  
+  font-size: 16px;
+  
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}

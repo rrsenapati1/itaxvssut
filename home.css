@@ -1,0 +1,44 @@
+#heading{
+    width:inherit;
+    background-color: cadetblue;
+    
+}
+
+.avatar{
+    padding-top: 15px;
+    width: 150px;
+    
+}
+
+
+
+
+#mainform{
+    margin: 0 auto;
+    width: 400px;
+    background-color:white;
+    padding: 5px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.myform{
+    margin: 0 auto;
+    width: 260px;
+}
+.ip{
+    width: 250px;
+    margin: 0 auto;
+    padding: 5px;
+}
+.sub{
+    background-color:dodgerblue;
+    padding: 5px;
+    color: white;
+    width: 150px;
+}
+.bck{
+    background-color:#34495e;
+    padding: 5px;
+    color: white;
+    width: 150px;
+}
